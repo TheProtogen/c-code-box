@@ -1,12 +1,12 @@
-# VScode stuff
+# VScode, basicamente
 *.vscode/
 
-# Ignore compiled executables and object files
+# Ignora exe compilados e arquivos de objetos
 *.exe
 *.out
 *.o
 *.obj
 *.a
 
-# Ignore build output directories
+# Ignora diretórios de saída de compilação
 /build/
