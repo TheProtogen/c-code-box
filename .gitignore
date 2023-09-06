@@ -1,0 +1,12 @@
+# VScode stuff
+*.vscode/
+
+# Ignore compiled executables and object files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+
+# Ignore build output directories
+/build/
